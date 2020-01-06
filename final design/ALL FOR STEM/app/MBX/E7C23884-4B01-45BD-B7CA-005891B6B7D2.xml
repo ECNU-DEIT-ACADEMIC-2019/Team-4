@@ -1,0 +1,36 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="E7C23884-4B01-45BD-B7CA-005891B6B7D2" platform="MtWeb" defaultW="1100" defaultH="6000" measureW="1100" measureH="950" mobileScreenScale="0">
+  <controls controlCount="4">
+    <control controlID="3E77A515-79D4-407A-BA1D-DF1D4EB0E771" controlTypeID="BrowserWindow" x="0" y="0" w="1100" h="864" zOrder="0">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>All+For+STEM%0D%0Ahttps%3A%2F%2Fwww.allforstem.cn%2FJaneuser.pdf</text>
+      <textSize>14</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="DEE111C8-F4D7-4BFF-A518-4614804A9592" controlTypeID="VerticalScrollbar" x="1086" y="73" w="14" h="763" zOrder="1"/>
+    <control controlID="726EC60B-4100-4DD1-B741-803EB18687E4" controlTypeID="Image" x="302" y="83" w="521" h="746" zOrder="2">
+      <URL>C09CA51922B413B849E8B853001E3670.png</URL>
+    </control>
+    <control controlID="563C176E-8EB2-43E6-9FC2-DDEBFB5B1603" controlTypeID="Button" x="504" y="881" w="76" h="33" zOrder="3">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="5319AF3D-D06F-4298-9BC1-5F97D1BEEF00" linkType="ltPageLink" isApplyIncludePage="False" title="%E5%8A%A8%E6%89%8B%E8%AE%BE%E8%AE%A1">
+          <area shape="0" alt="" ID="{5D6C3520-7DC2-4C1E-A396-9F2DED26DBA6}" coords="(0,0,76,33)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E8%BF%94%E5%9B%9E</text>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

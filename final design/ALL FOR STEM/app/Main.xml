@@ -1,0 +1,177 @@
+﻿<project version="2.9" name="ALL FOR STEM(1)" ID="50469E80-13F6-472E-9B0D-6B3C87AEBE2E">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtWeb" pageSize="(1100,6000)" backgroundColor="4294967295" fontSize="0" fontFamily="" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="首页" ID="BFD778F5-FE39-4792-8D7B-D7EE22826323" expanded="True" code="4dRZG7NczA" thumbCode="4dRZG7NczA" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="3E211937BA2EC07A600A05900D520745.jpg"/>
+      </images>
+    </page>
+    <page name="动手设计" ID="5319AF3D-D06F-4298-9BC1-5F97D1BEEF00" expanded="True" code="qsxjJR8Bt2" thumbCode="qsxjJR8Bt2" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="2A91D95040708868862283C0B7AE86CC.svg"/>
+        <image key="807B9BF23EE1023139B925F62B0D2029.svg"/>
+        <image key="91E318AF6C5D6CD67DCF5F8DD8CACCB1.png"/>
+        <image key="99F3306433F452A04737307858F73970.svg"/>
+        <image key="3E211937BA2EC07A600A05900D520745.jpg"/>
+        <image key="DB7FC814F441C17601BBA7EA29C0CC4C.svg"/>
+      </images>
+      <page name="预览" ID="E7C23884-4B01-45BD-B7CA-005891B6B7D2" expanded="True" code="6Dbzj5rYf4" thumbCode="6Dbzj5rYf4" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="C09CA51922B413B849E8B853001E3670.png"/>
+        </images>
+      </page>
+    </page>
+    <page name="案例库" ID="1F6D0CDC-3FFD-45DE-85FB-A0A2E20954E1" expanded="True" code="2HKuZNd3Ej" thumbCode="2HKuZNd3Ej" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="0709C8A544BF179125FC0E8612F1A199.png"/>
+        <image key="0177705F71F695B7C0AC76F146ADA25E.png"/>
+        <image key="E3FEFA19E01D48AE53448AD136EF378B.png"/>
+        <image key="337A3A5941FB09858D1543E1DCF13991.png"/>
+        <image key="AD80278A79D6507C1A64F11AD12D3951.png"/>
+        <image key="0420137A4BA9F56D65B7AAA904B382F2.png"/>
+        <image key="668342DFE5D5DB9AE464F71D7545AD70.png"/>
+      </images>
+    </page>
+    <page name="论坛" ID="2D024AA5-BBE6-40B6-BA3D-9D411BEB3D53" expanded="True" code="IhofLQgEJk" thumbCode="IhofLQgEJk" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="9779785199034A1B7742E552E44BA325.svg"/>
+        <image key="27BF6DD5D083782A1CB633DA66BC8750.svg"/>
+        <image key="2A91D95040708868862283C0B7AE86CC.svg"/>
+        <image key="69A4D1E5CE13432C6A4F579026917C6A.svg"/>
+        <image key="6435FAA4924A62D32BF5E6A70174E146.svg"/>
+        <image key="B006535552ADCF3C660B10FA6D267D70.svg"/>
+        <image key="112EE2F1122E853B6A7454D88207E9C6.svg"/>
+        <image key="691E43A0CADD5AF1CA372E5138075E19.svg"/>
+        <image key="19608ECCF020C455BF0E12AB17ABEB32.jpg"/>
+      </images>
+    </page>
+    <page name="设计教程" ID="E34087B5-12BF-4EC8-B548-CD20C13D18BA" expanded="True" code="GwucxYYJ7J" thumbCode="Jx2nkVao9R" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="070C6969E19682B3DADBA10CDA41CFEE.png"/>
+        <image key="3E211937BA2EC07A600A05900D520745.jpg"/>
+        <image key="4AD0395C61B152EF83DCCF982780944B.png"/>
+        <image key="4258897160DAC7255D2AAF9B4A2A7FC7.png"/>
+        <image key="EB53B6B105DD52FE2B389A90A8F1FC6A.png"/>
+        <image key="1132969EA108B982B7B4534F4656F124.png"/>
+      </images>
+      <page name="学习情境" ID="43598FE2-029E-45BD-8368-C41C0D71CFA0" expanded="False" code="849Uo3wtyX" thumbCode="849Uo3wtyX" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="19608ECCF020C455BF0E12AB17ABEB32.jpg"/>
+          <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+          <image key="DB7FC814F441C17601BBA7EA29C0CC4C.svg"/>
+          <image key="78231D84A69AEE4C63DA5C3A8F13CD63.png"/>
+          <image key="FE05A54450C99852EC28A5E9124A64F4.png"/>
+          <image key="8AB3C01C6071F4211FD72FB4B963666B.png"/>
+          <image key="112EE2F1122E853B6A7454D88207E9C6.svg"/>
+          <image key="3D4AB6B1418FAF1DD60E38ABC4819951.png"/>
+          <image key="5066AE684262DAF8D3CC859D21380633.png"/>
+          <image key="691E43A0CADD5AF1CA372E5138075E19.svg"/>
+        </images>
+      </page>
+      <page name="教学对象" ID="C9EDE4ED-350E-49A9-8631-618CB65B43CD" expanded="False" code="jgbYqgwsqo" thumbCode="jgbYqgwsqo" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="D4C9D3232B4780F54AAFC74FE00922C3.jpg"/>
+          <image key="112EE2F1122E853B6A7454D88207E9C6.svg"/>
+          <image key="A136E8D02B7671850B9F29116D9651E1.jpg"/>
+          <image key="691E43A0CADD5AF1CA372E5138075E19.svg"/>
+          <image key="19608ECCF020C455BF0E12AB17ABEB32.jpg"/>
+        </images>
+      </page>
+    </page>
+    <page name="个人中心" ID="0B26E94F-BF88-4F29-BDBE-92CFD718BC45" expanded="True" code="5z8Z43m5SG" thumbCode="5z8Z43m5SG" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+        <image key="27BF6DD5D083782A1CB633DA66BC8750.svg"/>
+        <image key="2A91D95040708868862283C0B7AE86CC.svg"/>
+        <image key="A136E8D02B7671850B9F29116D9651E1.jpg"/>
+        <image key="41BACA5C90C06C95D081FB51FB64DE31.svg"/>
+        <image key="F16FCCD9A02AD4FCB5F6861DF616C741.png"/>
+        <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+        <image key="19608ECCF020C455BF0E12AB17ABEB32.jpg"/>
+      </images>
+    </page>
+  </pages>
+  <trash>
+    <page name="页面" ID="93ED0723-6811-4E4C-A1D7-9D9A5ECB3F41" expanded="False" code="DOcPkw6DK9" thumbCode="DOcPkw6DK9" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="页面" ID="FBF3F18A-BDB5-478A-819A-888BDA30E5AB" expanded="False" code="Y53IKJG5XB" thumbCode="Y53IKJG5XB" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="页面" ID="A3AD9A78-D2A2-4E4B-B5BA-A76883D12B82" expanded="False" code="lVIBxVQalb" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="页面" ID="C34D24C0-D1D0-4746-85AF-BD5342CA80F8" expanded="False" code="RsBgkjqZne" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="首页" ID="652EBD2B-664A-4802-A0B9-6943EB8633A0" expanded="False" code="uXa3RqjCk5" thumbCode="4rrsgus9pF" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="3E211937BA2EC07A600A05900D520745.jpg"/>
+      </images>
+    </page>
+    <page name="首页" ID="7EA7B0CF-016F-4783-9A09-9C6F844EC93D" expanded="False" code="OBm5YytUcx" thumbCode="GRgW1vKADi" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="3E211937BA2EC07A600A05900D520745.jpg"/>
+      </images>
+    </page>
+    <page name="预览" ID="DE7E39DF-FF29-467B-821E-B7C6BF9A1072" expanded="True" code="DKNyLI6129" thumbCode="b6KhoQt5F3" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="预览" ID="F82C809F-FBD0-423F-AD74-48EB9A6C1997" expanded="False" code="gCXJbWCFCn" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="设计预览" ID="66A38DF8-F2AD-45BF-BCFB-62C2A72F7F15" expanded="True" code="BKZX2or87g" thumbCode="bFNimsKGtd" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="2A91D95040708868862283C0B7AE86CC.svg"/>
+        <image key="807B9BF23EE1023139B925F62B0D2029.svg"/>
+        <image key="91E318AF6C5D6CD67DCF5F8DD8CACCB1.png"/>
+        <image key="99F3306433F452A04737307858F73970.svg"/>
+        <image key="3E211937BA2EC07A600A05900D520745.jpg"/>
+        <image key="DB7FC814F441C17601BBA7EA29C0CC4C.svg"/>
+      </images>
+    </page>
+    <page name="个人中心" ID="099E0A18-EEFF-46FA-B322-2C3E170C2E4C" expanded="True" code="1escf34afo" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="页面" ID="33000C00-22C0-4965-AC5B-8A7C6BBAE87D" expanded="False" code="oxIg3SvOfN" thumbCode="8liZHrqqXN" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="3E211937BA2EC07A600A05900D520745.jpg"/>
+      </images>
+    </page>
+    <page name="页面" ID="C50D43DD-9F5A-4F87-B330-488A97540B0A" expanded="False" code="s1qTSsbM3j" thumbCode="1AhcyXXSKR" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="教学对象" ID="B5B4C90F-7424-42B9-94C7-05B8DFF60A2B" expanded="True" code="NgegCrZlES" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+  </trash>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="9779785199034A1B7742E552E44BA325.svg"/>
+    <image key="27BF6DD5D083782A1CB633DA66BC8750.svg"/>
+    <image key="1132969EA108B982B7B4534F4656F124.png"/>
+    <image key="6435FAA4924A62D32BF5E6A70174E146.svg"/>
+    <image key="D4C9D3232B4780F54AAFC74FE00922C3.jpg"/>
+    <image key="B006535552ADCF3C660B10FA6D267D70.svg"/>
+    <image key="691E43A0CADD5AF1CA372E5138075E19.svg"/>
+    <image key="EB53B6B105DD52FE2B389A90A8F1FC6A.png"/>
+    <image key="C09CA51922B413B849E8B853001E3670.png"/>
+    <image key="0177705F71F695B7C0AC76F146ADA25E.png"/>
+    <image key="A136E8D02B7671850B9F29116D9651E1.jpg"/>
+    <image key="91E318AF6C5D6CD67DCF5F8DD8CACCB1.png"/>
+    <image key="8AB3C01C6071F4211FD72FB4B963666B.png"/>
+    <image key="112EE2F1122E853B6A7454D88207E9C6.svg"/>
+    <image key="99F3306433F452A04737307858F73970.svg"/>
+    <image key="19608ECCF020C455BF0E12AB17ABEB32.jpg"/>
+    <image key="A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg"/>
+    <image key="070C6969E19682B3DADBA10CDA41CFEE.png"/>
+    <image key="2A91D95040708868862283C0B7AE86CC.svg"/>
+    <image key="807B9BF23EE1023139B925F62B0D2029.svg"/>
+    <image key="69A4D1E5CE13432C6A4F579026917C6A.svg"/>
+    <image key="F16FCCD9A02AD4FCB5F6861DF616C741.png"/>
+    <image key="3E211937BA2EC07A600A05900D520745.jpg"/>
+    <image key="AD80278A79D6507C1A64F11AD12D3951.png"/>
+    <image key="0420137A4BA9F56D65B7AAA904B382F2.png"/>
+    <image key="DB7FC814F441C17601BBA7EA29C0CC4C.svg"/>
+    <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+    <image key="0709C8A544BF179125FC0E8612F1A199.png"/>
+    <image key="4AD0395C61B152EF83DCCF982780944B.png"/>
+    <image key="337A3A5941FB09858D1543E1DCF13991.png"/>
+    <image key="41BACA5C90C06C95D081FB51FB64DE31.svg"/>
+    <image key="E3FEFA19E01D48AE53448AD136EF378B.png"/>
+    <image key="4258897160DAC7255D2AAF9B4A2A7FC7.png"/>
+    <image key="FE05A54450C99852EC28A5E9124A64F4.png"/>
+    <image key="78231D84A69AEE4C63DA5C3A8F13CD63.png"/>
+    <image key="3D4AB6B1418FAF1DD60E38ABC4819951.png"/>
+    <image key="668342DFE5D5DB9AE464F71D7545AD70.png"/>
+    <image key="5066AE684262DAF8D3CC859D21380633.png"/>
+  </images>
+</project>

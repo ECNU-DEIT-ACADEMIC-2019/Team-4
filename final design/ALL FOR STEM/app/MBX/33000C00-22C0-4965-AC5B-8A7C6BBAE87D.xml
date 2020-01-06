@@ -1,0 +1,28 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="33000C00-22C0-4965-AC5B-8A7C6BBAE87D" platform="MtWeb" defaultW="1100" defaultH="6000" measureW="1100" measureH="6000" mobileScreenScale="0">
+  <controls controlCount="4">
+    <control controlID="FDBC87BC-531B-4AD4-B4B1-D81D29B3A9E4" controlTypeID="Panel" x="0" y="0" w="1100" h="1515" zOrder="0">
+      <groupChildrenDescriptors>
+        <control controlID="42A90B19-64A6-4FE5-BA79-59003B4D6016" controlTypeID="Border" x="0" y="0" w="1100" h="1515" zOrder="0">
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+    <control controlID="8001A185-1172-402A-B9B1-974E13FCDF40" controlTypeID="Shape" x="0" y="0" w="1100" h="82" zOrder="1">
+      <color>4294111986</color>
+      <borderVisible>False</borderVisible>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="A5BA13B9-555F-4490-B07F-929BE4F30E1B" controlTypeID="Image" x="0" y="82" w="1100" h="1229" zOrder="2">
+      <URL>3E211937BA2EC07A600A05900D520745.jpg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

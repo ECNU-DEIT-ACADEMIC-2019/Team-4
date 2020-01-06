@@ -1,0 +1,18 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="C50D43DD-9F5A-4F87-B330-488A97540B0A" platform="MtWeb" defaultW="1100" defaultH="6000" measureW="1100" measureH="1000" mobileScreenScale="0">
+  <controls controlCount="2">
+    <control controlID="8F2D73CC-85F0-4A9F-9A6D-8A770CC99A7D" controlTypeID="Panel" x="0" y="0" w="1100" h="1442" zOrder="0">
+      <groupChildrenDescriptors>
+        <control controlID="88EB7B57-A55A-41BF-9870-50090039B06A" controlTypeID="Border" x="0" y="0" w="1100" h="1442" zOrder="0">
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>
